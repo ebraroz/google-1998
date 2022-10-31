@@ -1,0 +1,64 @@
+/* logoyu ortala */
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+/* üst kutu ortada,gri renk,*/
+
+
+.box {
+  background-color:  rgb(238, 238, 238);
+  width: 1130px; 
+  height: 63px ;
+  text-align: center;
+  margin: auto;
+
+}
+/* alt sol kutu ortada */
+.left-box {
+  background-color: rgb(126, 229, 218);
+  text-align: center;
+  margin-top: 2px;
+  margin-right: 2px;
+  margin-left: 67px;
+  width: 375px;
+  height: 74px;
+  float: left;
+  padding-top: 5px;
+}
+
+/* orta kutu ortada*/
+.middle-box{
+  background-color:rgb(112, 204, 194);
+  float:left;
+  margin:auto;
+  margin-top: 2px;
+  width: 375px;
+  height: 74px;
+  text-align: center;
+  font-size: small;
+  padding-top: 5px;
+}
+
+/* alt sol kutu */
+.right-box {
+  background-color: rgb(98, 179, 170);
+  text-align: center;
+  margin-top: 2px;
+  margin-right: 2px;
+  margin-left: 2px;
+  width: 375px;
+  height: 65px;
+  float: left;
+  font-size: small;
+  padding-top: 5px;
+  padding-bottom: 9px;
+}
+/* en alt yazı  */
+.clear {
+  clear: both;
+  text-align: center;
+  font-size: small;
+  padding-top:15px;
+}
